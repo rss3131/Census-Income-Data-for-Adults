@@ -3,7 +3,7 @@
 
 I used census income data here to apply data engineering. For example, I removed outliers, split the data into training and test sets, created binary classifiers, built confusion matrix, and calculated the accuracy and made predictions.
 
-CENSUS INCOME DATA FOR ADULTS
+
 Some of the key features used in this work are: 
 • Joined data frames
 • Summarized the given data
